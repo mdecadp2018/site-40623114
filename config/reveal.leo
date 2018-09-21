@@ -17,11 +17,8 @@
 <v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
 <v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
-<v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
@@ -39,7 +36,9 @@
 </v>
 </v>
 </v>
-</v>
+<v t="leo.20180827201621.5"><vh>head</vh></v>
+<v t="leo.20180827201621.6" a="E"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh></v>
 </v>
 </v>
 </v>
