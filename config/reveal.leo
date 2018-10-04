@@ -287,7 +287,7 @@ make.start()
 <t tx="leo.20181004211050.3">
 ### 第一週
 
-* 領取個人作業</t>
+* 領取個人作業介紹git功能</t>
 <t tx="leo.20181004211050.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
