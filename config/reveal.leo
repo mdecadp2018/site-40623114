@@ -17,6 +17,9 @@
 <v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
 <v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
+<v t="leo.20181004212214.1"><vh>head</vh></v>
+<v t="leo.20181004212310.1" a="E"><vh>body</vh>
+<v t="leo.20181004212328.1" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
@@ -41,6 +44,8 @@
 </v>
 <v t="leo.20181004211050.4" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004211050.5"><vh>內容</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -368,5 +373,73 @@ make.start()
 </t>
 <t tx="leo.20181004211050.5">
 個人影片：</t>
+<t tx="leo.20181004212214.1">&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+&lt;title&gt;
+2018 Fall 分組網際簡報
+&lt;/title&gt;
+    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
+    &lt;meta name="author" content="Hakim El Hattab"&gt;
+    
+    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
+    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
+    
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
+    
+    &lt;link rel="stylesheet" href="css/reveal.css"&gt;
+    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
+    
+    &lt;!-- Theme used for syntax highlighting of code --&gt;
+    &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
+
+    &lt;!-- Printing and PDF exports --&gt;
+    &lt;script&gt;
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    &lt;/script&gt;
+
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+&lt;/head&gt;
+
+</t>
+<t tx="leo.20181004212310.1">&lt;body&gt;
+@others
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'plugin/zoom-js/zoom.js', async: true },
+                { src: 'plugin/notes/notes.js', async: true },
+                { src: 'plugin/math/math.js', async: true }
+            ]
+        });
+&lt;/script&gt;
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20181004212328.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
 </tnodes>
 </leo_file>
