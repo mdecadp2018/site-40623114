@@ -63,7 +63,6 @@
 <v t="yen.20170108171733.71" a="E"><vh>@path markdown</vh>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
-<v t="leo.20180921103138.1"><vh>@edit pades_09_21</vh></v>
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
@@ -75,6 +74,7 @@
 <v t="leo.20180921111943.1"><vh>@edit 20180921.md</vh></v>
 <v t="leo.20181004210151.1"><vh>@edit 20180928.md</vh></v>
 <v t="leo.20181005095039.1"><vh>@edit 20181005.md</vh></v>
+<v t="leo.20181012100028.1"><vh>@edit 20181012.md</vh></v>
 </v>
 </v>
 </v>

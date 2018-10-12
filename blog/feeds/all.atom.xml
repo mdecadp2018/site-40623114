@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623114 個人網誌</title><link href="https://mdecadp2018.github.io/site-40623114/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623114/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623114/blog/</id><updated>2018-10-05T10:00:00+08:00</updated><entry><title>Wee4</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-05T10:00:00+08:00</published><updated>2018-10-05T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623114/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623114 個人網誌</title><link href="https://mdecadp2018.github.io/site-40623114/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623114/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623114/blog/</id><updated>2018-10-12T10:00:00+08:00</updated><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623114/blog/2018-Fall-Project-Blog-w5.html</id><summary type="html">&lt;p&gt;第五週～從 Onshapeweek1 課程到 Onshapeweek2
+</summary><content type="html">&lt;p&gt;第五週～從 Onshapeweek1 課程到 Onshapeweek2
+&lt;/p&gt;
+&lt;p&gt;第五週&lt;/p&gt;
+&lt;p&gt;上課內容：概要Onshape-week2學習要點
+一、簡介"設計意圖" (design intent)
+二、設定尺寸 (dimensions) 與約束 (constraints)
+三、自動推理 (automatic inferencing)
+四、繪製精確的零件 (accurate part)
+五、草圖繪製練習
+六、運用與建立平面 (planes)
+七、建立圓角 (fillets) 與倒角 (chamfers)
+八、使用多個 (multiple) 草圖區域 (sketch regions)
+九、基本零件
+十、繪製時鐘模型 - 用於設計意圖教學
+十一、各種簡單的幾何形狀 (geometric shapes) &lt;/p&gt;
+&lt;p&gt;自我評分：80&lt;/p&gt;
+&lt;p&gt;上課心得：開始進入Onshape-week2，此週還是為 Onshape操作之練習，
+只要作業回家有做，章節有看我相信至期中必定能有所成果。&lt;/p&gt;</content><category term="2018Fall-w5"></category></entry><entry><title>Wee4</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-05T10:00:00+08:00</published><updated>2018-10-05T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623114/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
 </summary><content type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
 &lt;/p&gt;
 &lt;p&gt;上課內容：簡要指導Onshape之基本操作，並以數簡易零件供我們練習，以利我們操作更順利流暢。&lt;/p&gt;
