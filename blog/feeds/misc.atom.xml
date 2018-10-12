@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623114 個人網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623114/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623114/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623114/blog/</id><updated>2018-09-28T10:00:00+08:00</updated><entry><title>Wee3</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623114/blog/2018-Fall-Project-Blog-w3.html</id><summary type="html">&lt;p&gt;第三週～python程式和git基本操作練習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623114 個人網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623114/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623114/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623114/blog/</id><updated>2018-10-05T10:00:00+08:00</updated><entry><title>Wee4</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-05T10:00:00+08:00</published><updated>2018-10-05T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623114/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
+</summary><content type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
+&lt;/p&gt;
+&lt;p&gt;上課內容：簡要指導Onshape之基本操作，並以數簡易零件供我們練習，以利我們操作更順利流暢。&lt;/p&gt;
+&lt;p&gt;自我評分：80&lt;/p&gt;
+&lt;p&gt;上課心得：剛接觸Onshape稍顯有些不習慣，一個原因是全英文，另一個是介面與我稍顯熟悉的solidwork不同。特徵的美術圖也不太依樣。希望期中之前能更熟悉。&lt;/p&gt;</content><category term="2018Fall-w4"></category></entry><entry><title>Wee3</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623114/blog/2018-Fall-Project-Blog-w3.html</id><summary type="html">&lt;p&gt;第三週～python程式和git基本操作練習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第三週～python程式和git基本操作練習&lt;/p&gt;
 
-
-&lt;p&gt;上課影片：&lt;/p&gt;
-&lt;iframe src="https://www.youtube.com/watch?v=158Ir6Mni60" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;上課內容：複習上學期GIT 基本操作，解析python 改版上的操作。&lt;/p&gt;
 &lt;p&gt;自我評分：80&lt;/p&gt;
@@ -12,17 +14,13 @@
 </summary><content type="html">&lt;p&gt;第二週～如何管理 CMSimfly 作業倉儲
 &lt;/p&gt;
 &lt;p&gt;第二週&lt;/p&gt;
-&lt;p&gt;上課影片：&lt;iframe src="https://www.youtube.com/watch?v=hEkMv2KqixY" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;上課內容：介紹ShareX如何取圖。管理作業倉儲的基本設定。錄影時的工具Zoomit。習得運用輔助程式，以方便呈現卻切內容。&lt;/p&gt;
 &lt;p&gt;自我評分：80&lt;/p&gt;
 &lt;p&gt;上課心得：比起上學期得一頭霧水，這次顯然比較能進入狀況。&lt;/p&gt;</content><category term="2018Fall-w2"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623114/blog/2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-14T10:00:00+08:00</published><updated>2018-09-14T10:00:00+08:00</updated><author><name>40623114</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623114/blog/2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;適應週～領取個人作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;適應週～領取個人作業&lt;/p&gt;
 
 
-&lt;p&gt;第一週 
-上課影片：&lt;/p&gt;
-&lt;iframe src="https://www.youtube.com/watch?v=sD9slKyFNao&amp;t=38s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;p&gt;第一週 &lt;/p&gt;
 &lt;p&gt;上課內容：&lt;/p&gt;
 &lt;p&gt;介紹本學期課程內容 &lt;/p&gt;
 &lt;p&gt;利用p37中的git建立個人的Github Pages網站&lt;/p&gt;
