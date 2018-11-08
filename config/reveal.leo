@@ -42,8 +42,48 @@
 <v t="leo.20181004211050.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004211050.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181004211050.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181004211050.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109022926.1" a="E"><vh>WEEK2</vh>
+<v t="leo.20181109022926.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022926.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022927.1" a="E"><vh>WEEK3</vh>
+<v t="leo.20181109022927.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022927.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022928.1" a="E"><vh>WEEK4</vh>
+<v t="leo.20181109022928.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022928.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022931.1" a="E"><vh>WEEK5</vh>
+<v t="leo.20181109022931.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022931.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022931.6" a="E"><vh>WEEK6</vh>
+<v t="leo.20181109022931.7" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022931.8"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022932.1" a="E"><vh>WEEK7</vh>
+<v t="leo.20181109022932.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022932.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109022932.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022932.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022933.1" a="E"><vh>WEEK8</vh>
+<v t="leo.20181109022933.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022933.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181109022935.1" a="E"><vh>WEEK9</vh>
+<v t="leo.20181109022935.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109022935.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -287,20 +327,13 @@ make.start()
 <t tx="leo.20181004211050.3">
 ### 第一週
 
-* 領取個人作業介紹git功能</t>
-<t tx="leo.20181004211050.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+* 領取個人作業介紹git功能
 
+* 說明如何管理期中作業倉儲中的網際投影片。
 
+* 說明如何管理個人的期中作業網站內容。
 
-						
 </t>
-<t tx="leo.20181004211050.5">
-個人影片：</t>
 <t tx="leo.20181004212214.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
@@ -367,6 +400,231 @@ make.start()
 <t tx="leo.20181004212328.1">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
+
+</t>
+<t tx="leo.20181109022926.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022926.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022926.3">
+### 第二週
+
+* 說明如何管理網際投影片與網誌。
+
+* 說明如何以ShareX取圖，如何管理CMSimfly作業倉儲。
+
+</t>
+<t tx="leo.20181109022927.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022927.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022927.3">
+### 第三週
+
+* git基本操作練習
+
+</t>
+<t tx="leo.20181109022928.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022928.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022928.3">
+### 第四週
+
+* Onshape Week1 課程使用說明
+
+</t>
+<t tx="leo.20181109022931.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022931.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022931.3">
+### 第五週
+
+* 說明計算機程式學習Python語法的範圍與開發網際即單機程式的偕同規劃架構介紹。
+
+</t>
+<t tx="leo.20181109022931.6">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022931.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022931.8">
+### 第六週
+
+* 說明電腦輔助設計實習課程中，有關人事時地物等關鍵內容的架構安排。
+
+* 說明如何利用git remote add 在倉儲中，以代號表示遠端倉儲連結。
+
+</t>
+<t tx="leo.20181109022932.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022932.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022932.3">
+### 第七週
+
+* Step1.進入mde.tw進入i -&gt;開啟https://github.com/mdecourse/cadp2018/issues/11
+
+* Step2.檢查github是否正常運作-&gt;進入https://status.github.com/messages
+
+* Step3.除github以外，還有gitlab與bitbucket兩間不同公司
+
+* Step4.前往gitlab創建帳號。
+
+* Step5.在SciTE導入Flask程式碼
+
+
+
+</t>
+<t tx="leo.20181109022932.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022932.5">
+* Step6.在cmd裡找到自己的IPv4的位址
+
+* Step7.輸入至Flask程式碼裡頭執行(F5)
+
+* Step8.在cmd裡輸入git remote add gitlab跟遠端倉儲URL做設定
+
+* Step9.從config裡頭可以看到remote "gitlab"
+
+* Step10.使用git pull gitlab - -allow - unrelated - gistories
+
+* Step11.解決衝突完成後就可以git push bitbucket 推送</t>
+<t tx="leo.20181109022933.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022933.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022933.3">
+### 第八週
+
+* Step1.前往mde.tw進入 i  ，點選week8 可以看到github整合出的課程行事曆。
+
+* Step2.回顧Onshape雲端工具，雲端的說明。
+
+ (雲端：可共享、可配置、一致性、具備經濟規模、公共服務事業。)
+
+* Step3.介紹機電資整合範例、流程所需的相關套件運用與技術。
+
+* Step4.電腦輔助設計實習課程回顧，EX：CMSimfly、Reveal、Pelican。
+
+* Step5.透過Python3程式驅動的FreeCAD
+
+* Step6.Onshape與G.Code指令
+
+</t>
+<t tx="leo.20181109022935.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109022935.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109022935.3">
+### 第九週
+
+* 期中考周~
 
 </t>
 </tnodes>
